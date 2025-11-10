@@ -12,7 +12,7 @@ import "fmt"
 func main() {
 
 	// 0 x 9
-	fmt.Println("0 x 9 =", 0 * 9)
+	fmt.Println("0 x 9 =", 0*9)
 
 	// 1 x 9
 	fmt.Println("1 x 9 =", 1 * 9)
