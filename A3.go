@@ -2,7 +2,7 @@
  * @author Marco Cantusci
  * @verion 1.0.0
  * @date 2025-11-10
- * @fileoverview Display a multiplication table from 0 to 12 with the number 9.
+ * @fileoverview Display a multiplication table from 0 up to 12 with the number 9.
  */
 
 package main
